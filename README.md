@@ -1,6 +1,6 @@
 # Number-Guesser-Udemy-Lesson
 
-This project is completed with the help of Udemy Lecture by Brad Traversy.
+This project is completed with the help of an Udemy Lecture by Brad Traversy.
 
 
 /*
